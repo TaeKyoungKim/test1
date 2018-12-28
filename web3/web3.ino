@@ -1,9 +1,4 @@
-#include <CaCert.h>
-#include <Contract.h>
-#include <Log.h>
-#include <Util.h>
-#include <Web3.h>
-#include <SoftwareSerial.h>
+
 
 #include <WiFi.h>
 
